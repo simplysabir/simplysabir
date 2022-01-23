@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplysabir&label=Profile%20views&color=0e75b6&style=flat" alt="simplysabir" /> </p>
 <br>
+<p align="left"> <a href="https://twitter.com/simplysabir_" target="blank"><img src="https://img.shields.io/twitter/follow/simplysabir_?logo=twitter&style=for-the-badge" alt="simplysabir_" /></a> </p>
 
 
 - 🔭 I’m currently working on **Recipe Website Using HTML & CSS**
