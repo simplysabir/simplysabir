@@ -3,17 +3,17 @@
 <h3 align="center">A CSE Student who loves exploring new things</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplysabir&label=Profile%20views&color=0e75b6&style=flat" alt="simplysabir" /> </p>
-<br>
-<br>
-<p align="left"> <a href="https://twitter.com/simplysabir_" target="blank"><img src="https://img.shields.io/twitter/follow/simplysabir_?logo=twitter&style=for-the-badge" alt="simplysabir_" /></a> </p>
 
-
-- 🔭 I’m currently working on **Recipe Website Using HTML & CSS**
+- 🔭 I’m currently working on **Development Related Projetcs**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Related Work**
+
+- 📝 I regularly write articles on [https://sabirkhan.hashnode.dev/](https://sabirkhan.hashnode.dev/)
 
 - 📫 How to reach me **simplysabir@gmail.com**
 
@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simplysabir&show_icons=true&locale=en" alt="simplysabir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simplysabir&" alt="simplysabir" /></p>
+
+
+
