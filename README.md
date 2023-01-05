@@ -1,4 +1,4 @@
-# <h1>🐱‍🚀 Sabir Khan</h1>  
+<h1>🐱‍🚀 Sabir Khan</h1>  
 
 
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
@@ -71,7 +71,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 
 ---
 
-
+<br />
 <h2>My Latest Project</h2> 
 <br />
 <p><a href="https://github.com/simplysabir/CoderClue#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simplysabir&repo=CoderClue&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
