@@ -22,7 +22,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 </p>
 
 ---
-
+<br />
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
