@@ -74,8 +74,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/Check-Solana-Balance#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Check-Solana-Balance&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/Check-Solana-Balance#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Check-Solana-Balance&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/simplysabir.github.io#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=simplysabir.github.io&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/simplysabir.github.io#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=simplysabir.github.io&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
