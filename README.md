@@ -74,8 +74,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/Solana-Student-Intro-App#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Solana-Student-Intro-App&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/Solana-Student-Intro-App#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Solana-Student-Intro-App&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/Buildoors#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Buildoors&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/Buildoors#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Buildoors&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
