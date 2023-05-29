@@ -12,13 +12,13 @@ I have a strong foundation in web development, blockchain, and open source as a 
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
   <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=c691e9&style=for-the-badge&labelColor=655489&logo=star#gh-dark-mode-only"/></a>
   
   <a href="https://github.com/simplysabir?tab=followers#gh-light-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
     
   <a href="https://github.com/simplysabir?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
 ---
@@ -43,6 +43,17 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=solidity"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=tailwind"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=firebase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=jest"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nodejs"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postman"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=saas"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 
 </p>
 <br />
@@ -74,8 +85,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/Compressed-NFTs#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Compressed-NFTs&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/Compressed-NFTs#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=Compressed-NFTs&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/solana-pay#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=solana-pay&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/solana-pay#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=solana-pay&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
