@@ -52,7 +52,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=prisma"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redux"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=rust"  />
-<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=saas"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 
 </p>
