@@ -76,8 +76,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br/>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
 <br/>
 
 ---
