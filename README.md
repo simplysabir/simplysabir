@@ -32,6 +32,7 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=c"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=cpp"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=express"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nest"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=figma"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=git"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
@@ -85,8 +86,8 @@ I have a strong foundation in web development, blockchain, and open source as a 
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/cryptotrends#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=cryptotrends&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/cryptotrends#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=cryptotrends&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/jwt-authentication#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=jwt-authentication&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/jwt-authentication#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=jwt-authentication&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
