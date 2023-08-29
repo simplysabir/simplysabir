@@ -1,10 +1,10 @@
 <h1>🐱‍🚀 Sabir Khan</h1>  
 
 
-**`Digital Craftsman (Developer/Programmer/Creator)`**  
+**`Full Stack and Web 3 Developer | DevOps Engineer | Programmer`**  
 <br />
 <p align="left">
-I have a strong foundation in web development, blockchain, and open source as a developer, programmer, and computer science student based in India. With over two years of experience in the industry, I have a proven ability to solve  complex problems and deliver projects successfully. All coding projects are built from the ground up, beginning with planning and design and progressing to the solution of real-world problems with code. In addition to my technical abilities, I am a skilled content creator, having shared my knowledge and expertise on platforms such as <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>. My goal as a full-stack developer and creative content producer is to constantly learn, grow, and make a meaningful impact in the digital world.
+I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. Beyond coding, I share insights on platforms like <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>, and I'm a proud member of <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>, a community shaping the web3 future. I thrive on challenges and am confident in my ability to drive tech innovation.
 </p>
 
 <p align="left"> 
