@@ -59,26 +59,26 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 </p>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
+  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a>
 </p>
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
+<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
 
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a>
 </p> 
 <br>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
 <br/>
 <br />
 
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="simplysabir" /></a></p>
+<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
+<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
 <br/>
 
 ---
@@ -93,7 +93,7 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/simplysabir_" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplysabir_" /></a>
-<a href="https://instagram.com/malik_9136" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malik_9136" /></a>
+<a href="https://instagram.com/simplysabir" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplysabir" /></a>
 <a href="https://www.linkedin.com/in/simplysabir/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 
