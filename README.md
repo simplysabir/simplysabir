@@ -38,6 +38,9 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=github"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=java"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=mongodb"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=mysql"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=postgres"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=redis"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=linux"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nextjs"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=react"  />
@@ -46,6 +49,10 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=vscode"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=bash"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=firebase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=supabase"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=aws"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=docker"  />
+<img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nginx"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=jest"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=md"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=nodejs"  />
