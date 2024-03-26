@@ -93,8 +93,8 @@ I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/tiny-blockchain#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=tiny-blockchain&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/tiny-blockchain#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=tiny-blockchain&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/faucetly#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=faucetly&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/faucetly#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=faucetly&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
