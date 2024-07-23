@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer/Programmer/Creator)`**  
 <br />
 <p align="left">
-I'm a 20-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. Beyond coding, I share insights on platforms like <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>, and I'm a proud member of <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>, a community shaping the web3 future. I thrive on challenges and am confident in my ability to drive tech innovation.
+I'm a 21-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. Beyond coding, I share insights on platforms like <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>, and I'm a proud member of <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>, a community shaping the web3 future. I thrive on challenges and am confident in my ability to drive tech innovation.
 </p>
 
 <p align="left"> 
