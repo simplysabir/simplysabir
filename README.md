@@ -93,8 +93,8 @@ I'm a 21-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 <br />
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/simplysabir/solanakit_v4#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=solanakit_v4&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/solanakit_v4#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=solanakit_v4&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/mpc-tss-wallet#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=mpc-tss-wallet&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/simplysabir/mpc-tss-wallet#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=mpc-tss-wallet&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 <h2>Connect With Me</h2> 
