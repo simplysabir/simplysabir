@@ -1,10 +1,10 @@
 <h1>🐱‍🚀 Sabir Khan</h1>  
 
 
-**`Digital Craftsman (Developer/Programmer/Creator)`**  
+**`Code Slinger (Full-Stack/Web3/DevOps)`**  
 <br />
 <p align="left">
-I'm a 21-year-old full-stack and web3 developer, and DevOps engineer based in Mumbai, India. With over 2 years of hands-on industry experience, I've delved into web development, blockchain, DevOps, and open source. Beyond coding, I share insights on platforms like <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a>, and I'm a proud member of <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>, a community shaping the web3 future. I thrive on challenges and am confident in my ability to drive tech innovation.
+22 y/o digital nomad slinging code across full-stack, web3 & DevOps // mumbai-based // member @SuperteamDAO. Spent 4+ years in the trenches of software engineering, hacking on everything from front-end magic to blockchain wizardry and infrastructure automation. When not pushing commits, I'm dropping tech knowledge on <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a> or plotting the future of web3 with <a href="https://twitter.com/superteamdao" target="_blank">@SuperteamDAO</a>. I eat impossible problems for breakfast and ship solutions by lunch.
 </p>
 
 <p align="left"> 
@@ -23,7 +23,7 @@ I'm a 21-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 
 ---
 <br />
-<h2>Languages and Tools</h2> 
+<h2>Weapons of Choice</h2> 
 <p align="left">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
@@ -91,16 +91,15 @@ I'm a 21-year-old full-stack and web3 developer, and DevOps engineer based in Mu
 ---
 
 <br />
-<h2>My Latest Project</h2> 
+<h2>Latest Drop</h2> 
 <br />
 <p><a href="https://github.com/simplysabir/shamir-vault#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=shamir-vault&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
 <p><a href="https://github.com/simplysabir/shamir-vault#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=shamir-vault&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
-<h2>Connect With Me</h2> 
+<h2>Find Me</h2> 
 <p align="left">
 <a href="https://twitter.com/simplysabir_" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplysabir_" /></a>
 <a href="https://instagram.com/simplysabir" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplysabir" /></a>
 <a href="https://www.linkedin.com/in/simplysabir/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-
