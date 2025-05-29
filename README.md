@@ -1,4 +1,4 @@
-<h1>🐱‍🚀 Sabir Khan</h1>  
+<h1>Sabir Khan</h1>  
 
 
 **`Code Slinger (Full-Stack/Web3/DevOps)`**  
