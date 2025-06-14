@@ -4,7 +4,7 @@
 **`Code Slinger (Full-Stack/Web3/DevOps)`**  
 <br />
 <p align="left">
-22 y/o digital nomad slinging code across full-stack, web3 & DevOps. Spent 4+ years in the trenches of software engineering, hacking on everything from front-end magic to blockchain wizardry and infrastructure automation. When not pushing commits, I'm dropping tech knowledge on <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a> or plotting the future of web3 with <a href="https://twitter.com/superteam" target="_blank">@SuperteamDAO</a>. I eat impossible problems for breakfast and ship solutions by lunch.
+22 y/o digital nomad slinging code across full-stack, web3 & DevOps. Spent 5+ years in the trenches of software engineering, hacking on everything from front-end magic to blockchain wizardry and infrastructure automation. When not pushing commits, I'm dropping tech knowledge on <a href="https://simplysabir.hashnode.dev/" target="_blank">Hashnode</a> or plotting the future of web3 with <a href="https://twitter.com/superteam" target="_blank">@SuperteamDAO</a>. I eat impossible problems for breakfast and ship solutions by lunch.
 </p>
 
 <p align="left"> 
