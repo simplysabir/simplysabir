@@ -1,30 +1,31 @@
-<h1>Sabir Khan</h1>  
-
-
-**`Code Slinger (Full-Stack/Web3/DevOps)`**  
-<br />
-<p align="left">
-22 y/o digital nomad slinging code across full-stack, web3 & DevOps. Spent 5+ years in the trenches of software engineering, hacking on everything from front-end magic to blockchain wizardry and infrastructure automation. When not pushing commits, I'm dropping tech knowledge in <a href="https://www.simplysabir.xyz/blog" target="_blank">Here</a> or plotting the future of web3 with <a href="https://twitter.com/superteam" target="_blank">@SuperteamDAO</a>. I eat impossible problems for breakfast and ship solutions by lunch.
+<p align="center">
+  <img src="./105417.gif" height = "50%" width="100%" alt="dark cinematic code loop">
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/simplysabir?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/simplysabir?color=c691e9&style=for-the-badge&labelColor=655489&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/simplysabir?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/simplysabir?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/simplysabir?color=f9e692&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
+<p align="center">
+  <samp>software / systems / silence</samp>
 </p>
 
 ---
-<br />
-<h2>Weapons of Choice</h2> 
-<p align="left">
+
+### ~/recent builds
+
+- **[smolcase](https://github.com/simplysabir/smolcase/)** — zero-infrastructure secret management for development teams.  
+- **[lightning-log](https://github.com/simplysabir/lightning-log)** — ultra-fast zero-allocation logging for high-frequency trading and low-latency systems.
+- **[bunker](https://github.com/simplysabir/bunker)** — dead simple, secure password management.
+- **[pgpeek](https://github.com/simplysabir/pgpeek)** — peek into postgres without the hassle from terminal.
+- **[sekrit](https://github.com/simplysabir/sekrit)** — file encryption that doesn't suck.
+- **[ryzan](https://github.com/simplysabir/ryzan)** — secure Solana wallet with 2FA protection & Military grade encryption.
+- **[terzi](https://github.com/simplysabir/terzi)** — modern CLI API client designed for developer productivity.
+- **[shamir-vault](https://github.com/simplysabir/shamir-vault)** — a rust crate implementation of shamir's secret sharing algorithm.
+- **[sharrd](https://github.com/simplysabir/sharrd)** — a secure seed phrase manager.
+- **[timecapsule](https://github.com/simplysabir/timecapsule)** — a time-locked message system. encrypt messages that can only be decrypted after a specific date.
+- and many more in my profile :)
+
+---
+
+### ~/stack
+<p align="center">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
@@ -67,42 +68,29 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 
 </p>
-<br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-  <a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/top-langs/?username=simplysabir&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p>
-
-<br />
-
-<p>&nbsp;<a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="simplysabir" /></a>
-
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api?username=simplysabir&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="simplysabir" /></a>
-</p> 
-<br>
-<br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-streak-stats-seven-chi.vercel.app?user=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
-<br />
-
-<p><a href="https://github.com/simplysabir#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=nightowl#gh-dark-mode-only" alt="refresh page if you're not seeing this." /></a>
-<a href="https://github.com/simplysabir#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=simplysabir&theme=vue#gh-light-mode-only" alt="refresh page if you're not seeing this." /></a></p>
-<br/>
 
 ---
 
-<br />
-<h2>Latest Drop</h2> 
-<br />
-<p><a href="https://github.com/simplysabir/smolcase#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/simplysabir/smolcase#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats-git-master-simplysabir.vercel.app/api/pin/?username=simplysabir&repo=smolcase&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
+### ~/current
 
-<h2>Find Me</h2> 
-<p align="left">
-<a href="https://twitter.com/simplysabir_" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simplysabir_" /></a>
-<a href="https://instagram.com/simplysabir" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplysabir" /></a>
-<a href="https://www.linkedin.com/in/simplysabir/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+```text
+learning — low level & distributed systems
+building — curating halal defi universe at @inshallah-network
+writing — simplysabir.xyz/blog
+````
+
+---
+
+### ~/elsewhere
+
+<p align="center">
+  <a href="https://simplysabir.xyz" target="_blank">site</a> •
+  <a href="https://twitter.com/simplysabir_" target="_blank">twitter</a> •
+  <a href="https://github.com/simplysabir" target="_blank">github</a>
+</p>
+
+---
+
+<p align="center">
+  <samp>based in mumbai • working quietly</samp>
 </p>
