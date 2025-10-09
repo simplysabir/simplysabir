@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./105417.gif" height = "50%" width="100%" alt="dark cinematic code loop">
+  <img src="./105417.gif" height = "200px" width="100%" alt="dark cinematic code loop" style="object-fit: cover;>
 </p>
 
 <p align="center">
@@ -66,7 +66,6 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ruby"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
-
 </p>
 
 ---
