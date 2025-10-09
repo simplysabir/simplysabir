@@ -6,9 +6,7 @@
   <samp>software / systems / silence</samp>
 </p>
 
----
-
-### ~/recent builds
+## ~/recent builds
 
 - **[smolcase](https://github.com/simplysabir/smolcase/)** — zero-infrastructure secret management for development teams.  
 - **[lightning-log](https://github.com/simplysabir/lightning-log)** — ultra-fast zero-allocation logging for high-frequency trading and low-latency systems.
@@ -21,10 +19,9 @@
 - **[sharrd](https://github.com/simplysabir/sharrd)** — a secure seed phrase manager.
 - **[timecapsule](https://github.com/simplysabir/timecapsule)** — a time-locked message system. encrypt messages that can only be decrypted after a specific date.
 - and many more in my profile :)
+<br/>
 
----
-
-### ~/stack
+## ~/stack
 <p align="center">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
@@ -67,28 +64,25 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 </p>
+<br />
 
----
-
-### ~/current
+## ~/current
 
 ```text
-learning — low level & distributed systems
+tinkering — low level & distributed systems
 building — curating halal defi universe at @inshallah-network
 writing — simplysabir.xyz/blog
 ````
+<br/>
 
----
-
-### ~/elsewhere
+## ~/elsewhere
 
 <p align="center">
   <a href="https://simplysabir.xyz" target="_blank">site</a> •
   <a href="https://twitter.com/simplysabir_" target="_blank">twitter</a> •
-  <a href="https://github.com/simplysabir" target="_blank">github</a>
+  <a href="https://linkedin.com/in/simplysabir" target="_blank">linkedin</a>
 </p>
-
----
+<br />
 
 <p align="center">
   <samp>based in mumbai • working quietly</samp>
